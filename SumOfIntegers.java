@@ -1,5 +1,3 @@
-package Practice1.PartA;
-
 import java.util.*;
 
 public class SumOfIntegers {
