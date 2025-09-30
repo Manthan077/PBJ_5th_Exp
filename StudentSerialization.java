@@ -1,5 +1,3 @@
-package Practice1.PartB;
-
 import java.io.*;
 
 class Student implements Serializable {
