@@ -1,5 +1,3 @@
-package Practice1.PartC;
-
 import java.io.*;
 import java.util.Scanner;
 
